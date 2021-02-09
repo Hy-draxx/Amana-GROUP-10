@@ -112,7 +112,7 @@ a{
 
 /* HEADER SHOWCASE */
 #showcase{
-    background: #333 url('./img/showcase.jpg') no-repeat center center/cover;
+    background: #333 url('.img/showcase.jpg') no-repeat center center/cover;
     color: white;
     height: 100vh;
 }
@@ -153,7 +153,7 @@ a{
     flex: 1;
 }
 #who .who-image{
-    background: url('./img/people.jpg') no-repeat center center/cover;
+    background: url('.img/people.jpg') no-repeat center center/cover;
 }
 
 /* SECTION = CLIENT */
@@ -184,7 +184,7 @@ a{
     padding: 6px;
 }
 #contact .map{
-    background: #333 url('../img/download.jpg') no-repeat center center/cover;
+    background: #333 url('..img/download.jpg') no-repeat center center/cover;
 }
 
 
