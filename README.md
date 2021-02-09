@@ -1,4 +1,4 @@
-# Amana-GROUP-5
+# Amana-GROUP-10
 
 # GROUP 10 MEMBERS
 
@@ -10,6 +10,6 @@
 - Dikko David Jagaba- U16/FNS/CSC/1103 - nexiejay
 - Hassan Muhammad Umar- U16/FNS/CSC/1072 - muhammad8932
 - Salihu Abdulrahman- U16/FNS/CSC/1020 - 
-- Abdulkadir Bashir Muhammad- U16/FNS/CSC/1072 - muhammad8932
+- Abdulkadir Bashir Muhammad- U16/FNS/CSC/1072 -
 - Gana Idris Mohammed - U16/FNS/CSC/1057 - 
 - Mohammed Awwal Makusidi - U16/FNS/CSC/2086 -
