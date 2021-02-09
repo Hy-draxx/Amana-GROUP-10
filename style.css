@@ -181,7 +181,7 @@ a{
 }
 #contact input,textarea{
     width: 100%;
-    padding: 6px;
+    padding: 6.1px;
 }
 #contact .map{
     background: #333 url('img/download.jpg') no-repeat center center/cover;
